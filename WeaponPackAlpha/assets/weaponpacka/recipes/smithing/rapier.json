@@ -7,5 +7,6 @@
 		"#___##__________",
 	]],
 	name: "rapier",
+ code: "rapier-{metal}",
 	output: { type: "item", code: "rapier-{metal}", quantity: 1  }
 }

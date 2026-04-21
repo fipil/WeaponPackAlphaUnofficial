@@ -9,5 +9,6 @@
 		"______###_",
 	]],
 	name: "harvestknifehead",
+ code: "harvestknifehead-{metal}",
 	output: { type: "item", code: "harvestknifehead-{metal}", quantity: 2  }
 }

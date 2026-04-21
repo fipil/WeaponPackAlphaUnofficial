@@ -9,5 +9,6 @@
 		"____####____",
 	]],
 	name: "halberdhead",
-	output: { type: "item", code: "haleberdhead-{metal}"  }
+ code: "haleberdhead-{metal}",
+ output: { type: "item", code: "haleberdhead-{metal}", quantity: 1 }
 }

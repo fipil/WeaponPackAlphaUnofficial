@@ -7,5 +7,6 @@
 		"____________###_",
 	]],
 	name: "tachihead",
-	output: { type: "item", code: "tachihead-{metal}"  }
+  code: "tachihead-{metal}",
+  output: { type: "item", code: "tachihead-{metal}", quantity: 1 }
 }

@@ -6,5 +6,6 @@
 		"##__##__##",
 	]],
 	name: "epsilonaxehead",
-	output: { type: "item", code: "epsilonaxehead-{metal}"  }
+ code: "epsilonaxehead-{metal}",
+ output: { type: "item", code: "epsilonaxehead-{metal}", quantity: 1 }
 }

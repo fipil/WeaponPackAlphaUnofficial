@@ -6,5 +6,6 @@
 		"____#__####__",
 	]],
 	name: "spontoonhead",
-	output: { type: "item", code: "spontoonhead-{metal}"  }
+ code: "spontoonhead-{metal}",
+ output: { type: "item", code: "spontoonhead-{metal}", quantity: 1 }
 }

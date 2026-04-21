@@ -9,7 +9,8 @@
 		"#_#_#_#_#_#",
 	]],
 	name: "throwing spear heads",
-	output: { type: "item", code: "throwingspearhead-{metal}", stacksize: 22  }
+ code: "throwingspearhead-{metal}",
+ output: { type: "item", code: "throwingspearhead-{metal}", quantity: 22 }
 },
 {
 	ingredient: { type: "item", code: "game:ingot-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze"] },
@@ -21,7 +22,8 @@
 		"#_#_#_#_#_#",
 	]],
 	name: "throwing spear heads2",
-	output: { type: "item", code: "throwingspearhead-{metal}", stacksize: 33  }
+ code: "throwingspearhead-{metal}",
+ output: { type: "item", code: "throwingspearhead-{metal}", quantity: 33 }
 },
 {
 	ingredient: { type: "item", code: "game:ingot-*", name: "metal", allowedVariants: ["iron", "meteoriciron"] },
@@ -33,7 +35,8 @@
 		"#_#_#_#_#_#",
 	]],
 	name: "throwing spear heads3",
-	output: { type: "item", code: "throwingspearhead-{metal}", stacksize: 44  }
+ code: "throwingspearhead-{metal}",
+ output: { type: "item", code: "throwingspearhead-{metal}", quantity: 44 }
 },
 {
 	ingredient: { type: "item", code: "game:ingot-*", name: "metal", allowedVariants: ["steel"] },
@@ -45,6 +48,7 @@
 		"#_#_#_#_#_#",
 	]],
 	name: "throwing spear heads3",
-	output: { type: "item", code: "throwingspearhead-{metal}", stacksize: 66  }
+  code: "throwingspearhead-{metal}",
+ output: { type: "item", code: "throwingspearhead-{metal}", quantity: 66 }
 }
 ]

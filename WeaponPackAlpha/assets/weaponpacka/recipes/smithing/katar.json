@@ -8,5 +8,6 @@
 		"#########_____",
 	]],
 	name: "katar",
-	output: { type: "item", code: "katar-{metal}"  }
+  code: "katar-{metal}",
+  output: { type: "item", code: "katar-{metal}", quantity: 1 }
 }

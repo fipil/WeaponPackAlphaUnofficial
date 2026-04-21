@@ -8,5 +8,6 @@
 		"_______#__",
 	]],
 	name: "warhammerhead",
-	output: { type: "item", code: "warhammerhead-{metal}"  }
+  code: "warhammerhead-{metal}",
+  output: { type: "item", code: "warhammerhead-{metal}", quantity: 1 }
 }

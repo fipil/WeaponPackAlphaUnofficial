@@ -10,5 +10,6 @@
 		"____#######",
 	]],
 	name: "waraxehead",
-	output: { type: "item", code: "waraxehead-{metal}"  }
+ code: "waraxehead-{metal}",
+ output: { type: "item", code: "waraxehead-{metal}", quantity: 1 }
 }

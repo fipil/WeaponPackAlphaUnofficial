@@ -6,5 +6,6 @@
 		"____###########_",
 	]],
 	name: "spathahead",
-	output: { type: "item", code: "spathahead-{metal}"  }
+ code: "spathahead-{metal}",
+ output: { type: "item", code: "spathahead-{metal}", quantity: 1 }
 }

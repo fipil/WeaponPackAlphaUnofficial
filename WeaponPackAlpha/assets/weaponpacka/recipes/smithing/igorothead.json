@@ -11,5 +11,6 @@
 		"_______#",
 	]],
 	name: "igorothead",
-	output: { type: "item", code: "igorothead-{metal}"  }
+ code: "igorothead-{metal}",
+ output: { type: "item", code: "igorothead-{metal}", quantity: 1 }
 }

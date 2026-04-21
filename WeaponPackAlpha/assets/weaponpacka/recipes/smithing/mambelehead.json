@@ -10,5 +10,6 @@
 		"___#________#___",
 	]],
 	name: "mambelehead",
+ code: "mambelehead-{metal}",
 	output: { type: "item", code: "mambelehead-{metal}", quantity: 2  }
 }

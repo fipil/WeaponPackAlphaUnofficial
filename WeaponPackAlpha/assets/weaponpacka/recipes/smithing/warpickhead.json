@@ -11,5 +11,6 @@
 		"________________",
 	]],
 	name: "warpick",
-	output: { type: "item", code: "warpickhead-{metal}"  }
+  code: "warpickhead-{metal}",
+  output: { type: "item", code: "warpickhead-{metal}", quantity: 1 }
 }

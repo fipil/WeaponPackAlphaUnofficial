@@ -8,5 +8,6 @@
 		"##_##___####",
 	]],
 	name: "naginatahead",
-	output: { type: "item", code: "naginatahead-{metal}"  }
+ code: "naginatahead-{metal}",
+ output: { type: "item", code: "naginatahead-{metal}", quantity: 1 }
 }

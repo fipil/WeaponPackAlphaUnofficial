@@ -6,5 +6,6 @@
 		"___#______",
 	]],
 	name: "spikedagger",
+ code: "spikedagger-{metal}",
 	output: { type: "item", code: "spikedagger-{metal}", quantity: 1  }
 }
