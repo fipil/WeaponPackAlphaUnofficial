@@ -1,6 +1,6 @@
 {
 	code: "mambele",
-	class: "EntityProjectile",
+	class: "ModEntityProjectile",
 	hitboxSize: { x: 0.5, y: 0.5 },
 	variantgroups: [
 		{ code: "material", states: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel" ] },

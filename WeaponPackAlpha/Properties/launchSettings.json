@@ -3,7 +3,7 @@
     "WeaponPackAlpha1.22": {
       "commandName": "Executable",
       "executablePath": "c:\\VintageStory\\1.22\\Vintagestory.exe",
-      "commandLineArgs": "--openWorld=\"debugTestWorld\" -pcreativebuilding --addModPath=\"c:\\Develope\\VintageStory\\ProjectsOthers\\WeaponPackAlphaUnofficial\\WeaponPackAlpha\\publish\" --addOrigin=\"c:\\Develope\\VintageStory\\ProjectsOthers\\WeaponPackAlphaUnofficial\\WeaponPackAlpha\\assets\" --dataPath C:\\VintageStory\\1.22Data --tracelog",
+      "commandLineArgs": "--openWorld=\"test-WPA\" -pcreativebuilding --addModPath=\"c:\\Develope\\VintageStory\\ProjectsOthers\\WeaponPackAlphaUnofficial\\WeaponPackAlpha\\publish\" --addOrigin=\"c:\\Develope\\VintageStory\\ProjectsOthers\\WeaponPackAlphaUnofficial\\WeaponPackAlpha\\assets\" --dataPath C:\\VintageStory\\1.22Data --tracelog",
       "workingDirectory": "c:\\VintageStory\\1.22\\"
     }
   }

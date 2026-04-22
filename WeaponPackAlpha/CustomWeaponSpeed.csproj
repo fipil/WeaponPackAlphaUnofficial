@@ -10,6 +10,14 @@
     <FileVersion>1.0.0.0</FileVersion>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\bin\Debug\weaponpackalphaunoff\</OutputPath>
+    <IntermediateOutputPath>..\obj\Debug\weaponpackalphaunoff\</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\bin\Release\weaponpackalphaunoff\</OutputPath>
+    <IntermediateOutputPath>..\obj\Release\weaponpackalphaunoff\</IntermediateOutputPath>
+  </PropertyGroup>
   <ItemGroup>
     <Content Include="assets\game\sounds\player\strike1.ogg" />
     <Content Include="assets\game\sounds\player\strike2.ogg" />
@@ -37,6 +45,9 @@
     </Reference>
     <Reference Include="VintagestoryLib">
       <HintPath>C:\VintageStory\1.22\VintagestoryLib.dll</HintPath>
+    </Reference>
+    <Reference Include="VSEssentials">
+      <HintPath>C:\VintageStory\1.22\Mods\VSEssentials.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Target Name="PostBuild" BeforeTargets="PostBuildEvent">

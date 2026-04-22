@@ -1,6 +1,6 @@
 {
 	code: "throwingspear",
-	class: "EntityProjectile",
+	class: "ModEntityProjectile",
 	hitboxSize: { x: 0.15, y: 0.15 },
 	variantgroups: [
 		{ code: "material", states: ["obsidian", "flint", "bone", "copper", "tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel" ] },

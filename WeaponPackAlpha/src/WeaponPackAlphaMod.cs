@@ -22,6 +22,8 @@ namespace CustomWeaponSpeed
             api.RegisterItemClass("FastSwordChargeNone", typeof(FastSwordChargeNone));
             api.RegisterItemClass("VeryFastSwordChargeNone", typeof(VeryFastSwordChargeNone));
             api.RegisterItemClass("VeryFastSpearChargeNone", typeof(VeryFastSpearChargeNone));
+
+            api.RegisterEntity("ModEntityProjectile", typeof(ModEntityProjectile));
         }
   }
 }

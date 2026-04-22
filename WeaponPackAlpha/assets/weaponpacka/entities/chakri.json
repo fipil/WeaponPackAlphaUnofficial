@@ -1,6 +1,6 @@
 {
 	code: "chakri",
-	class: "EntityProjectile",
+	class: "ModEntityProjectile",
 	hitboxSize: { x: 0.65, y: 0.250 },
 	variantgroups: [
 		{ code: "material", states: [ "copper", "tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel" ] },
